@@ -618,7 +618,7 @@ body {
 
     .experience-card {
         top: -20px;
-        left: -20px;
+        left: -10px;
     }
 
     .card-number {
@@ -2332,7 +2332,7 @@ p {
 
 .experience-card {
     top: -20px;
-    left: -20px;
+    left: -10px;
 }
 
 .card-number {
