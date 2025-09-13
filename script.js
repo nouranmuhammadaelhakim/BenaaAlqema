@@ -5,13 +5,13 @@ let currentService = 'residential';
 // Service Data 
 const serviceData = {
     residential: { 
-        // image: , //سكني-مقاولات
+        image: 'https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop', //سكني-مقاولات
         icon: 'fas fa-home', 
         title: 'المباني السكنية',
         description: 'تصميم وتنفيذ المجمعات السكنية والفلل الراقية بأعلى معايير الجودة والراحة'
     },
     commercial: { //توريدات-تجاري
-        image: 'https://images.pexels.com/photos/2142227/pexels-photo-2142227.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+        image: 'https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
         icon: 'fas fa-building',
         title: 'المباني التجارية',
         description: 'إنشاء المراكز التجارية والمكاتب والمباني الإدارية بمعايير عالمية'
