@@ -879,7 +879,7 @@ body {
     .project-card {
         background: white;
         border-radius: 12px;
-        /* overflow: hidden; */
+        overflow: hidden;
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
         transition: all 0.3s ease;
         cursor: pointer;
@@ -892,7 +892,7 @@ body {
 
     .project-image {
         position: relative;
-        /* overflow: hidden; */
+        overflow: hidden;
     }
 
     .project-image img {
