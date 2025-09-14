@@ -1546,7 +1546,10 @@ body {
         .hero-title {
             font-size: 2rem;
         }
-
+        .logo-icon img{
+            width: 40px;
+            height: 40px;
+        }
         .hero-description {
             font-size: 1rem;
         }
