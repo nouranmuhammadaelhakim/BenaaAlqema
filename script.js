@@ -145,7 +145,7 @@ function setupIntersectionObserver() {
     const sections = document.querySelectorAll('section');
     sections.forEach(section => {
         // Set initial state for animation
-        section.style.opacity = '0';
+        // section.style.opacity = '0';
         section.style.transform = 'translateY(30px)';
         section.style.transition = 'opacity 0.6s ease, transform 0.6s ease';
         

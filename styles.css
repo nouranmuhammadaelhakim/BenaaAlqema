@@ -879,7 +879,7 @@ body {
     .project-card {
         background: white;
         border-radius: 12px;
-        overflow: hidden;
+        /* overflow: hidden; */
         box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
         transition: all 0.3s ease;
         cursor: pointer;
@@ -928,7 +928,7 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
-        opacity: 0;
+        
         transition: opacity 0.3s ease;
     }
 
@@ -3490,7 +3490,7 @@ p {
 
 @media (max-width: 400px) {
     .taawan-text {
-    bottom: 0px;
+    bottom: 50px;
     font-size:10px;
 }
 .header{
