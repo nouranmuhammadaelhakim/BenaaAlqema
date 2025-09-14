@@ -1600,9 +1600,9 @@ body {
         .container {
             padding: 0 15px;
         }
-.logo-icon img{
+/* .logo-icon img{
             display: none;
-        }
+        } */
         .hero-content {
             padding: 1rem;
         }
@@ -3620,4 +3620,20 @@ p {
     .scroll-indicator {
         animation: none;
     }
+}
+
+/* نسخة أوضح للشاشات اللي دقتها 2x أو أعلى */
+@media (min-resolution: 2dppx),
+       (-webkit-min-device-pixel-ratio: 2) {
+  .logo .logo-icon img{
+    background-image: url("./Images/logo.png");
+  }
+}
+
+/* لو عندك نسخة 3x كمان */
+@media (min-resolution: 3dppx),
+       (-webkit-min-device-pixel-ratio: 3) {
+  .logo .logo-icon img{
+    background-image: url("./Images/");
+  }
 }
