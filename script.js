@@ -13,22 +13,21 @@ const serviceData = {
     commercial: { //توريدات-تجاري
         image: 'https://images.pexels.com/photos/380768/pexels-photo-380768.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
         icon: 'fas fa-building',
-        title: 'المباني التجارية',
-        description: 'إنشاء المراكز التجارية والمكاتب والمباني الإدارية بمعايير عالمية'
+        title: 'التوريدات',
+        description: 'وفر جميع أنواع مواد البناء والتشطيبات بجودة مضمونة وأسعار تنافسية، مع التزامنا بالدقة في المواعيد لضمان سير مشاريعك دون تأخير.'
     },
     industrial: { //تشطيبات - صناعي
         image: 'https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
         icon: 'fas fa-industry',
-        title: 'المشاريع الصناعية',
-        description: 'تنفيذ المصانع والمنشآت الصناعية وفقاً لأعلى المعايير التقنية والبيئية'
+        title: 'التشطيبات',
+        description: 'تنفيذ انقدم خدمات التشطيبات بأعلى معايير الإبداع والجودة، بدءًا من التصميم الداخلي والخارجي وصولًا إلى أدق التفاصيل، لنمنحك مساحة تعكس ذوقك وتلبي احتياجاتك.'
     },
     infrastructure: { //كهرباء-بنية تحتية
         image: 'https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
         icon: 'fas fa-road',
-        title: 'البنية التحتية',
-        description: 'تطوير شبكات الطرق والجسور والمرافق العامة بأحدث التقنيات الهندسية'
-    }
-};
+        title: 'اعمال الكهرباء',
+        description: 'تطوير شبكات الطرق والجسور والمرافق العامة بأحدث التقنيات الهندسية',
+}}
 
 // DOM Content Loaded
 document.addEventListener('DOMContentLoaded', function() {
