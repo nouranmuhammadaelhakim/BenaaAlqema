@@ -1499,7 +1499,7 @@ body {
         .header-contact {
             display: none;
         }
-
+        
         .stats-grid{
             gap: 0px;
         }
@@ -1600,6 +1600,10 @@ body {
         .container {
             padding: 0 15px;
         }
+        .statsp{
+                gap:90px;
+        }
+
 /* .logo-icon img{
             display: none;
         } */
