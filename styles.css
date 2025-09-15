@@ -3627,17 +3627,17 @@ p {
 }
 
 /* نسخة أوضح للشاشات اللي دقتها 2x أو أعلى */
-@media (min-resolution: 2dppx),
+/* @media (min-resolution: 2dppx),
        (-webkit-min-device-pixel-ratio: 2) {
   .logo .logo-icon img{
     background-image: url("./Images/logo.png");
   }
-}
+} */
 
 /* لو عندك نسخة 3x كمان */
-@media (min-resolution: 3dppx),    
+/* @media (min-resolution: 3dppx),    
        (-webkit-min-device-pixel-ratio: 3) {
   .logo .logo-icon img{
     background-image: url("./Images/");
   }
-}
+} */
