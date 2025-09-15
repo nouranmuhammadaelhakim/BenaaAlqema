@@ -3635,7 +3635,7 @@ p {
 }
 
 /* لو عندك نسخة 3x كمان */
-@media (min-resolution: 3dppx),
+@media (min-resolution: 3dppx),    
        (-webkit-min-device-pixel-ratio: 3) {
   .logo .logo-icon img{
     background-image: url("./Images/");
