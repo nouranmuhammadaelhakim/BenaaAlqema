@@ -17,13 +17,13 @@ const serviceData = {
         description: 'وفر جميع أنواع مواد البناء والتشطيبات بجودة مضمونة وأسعار تنافسية، مع التزامنا بالدقة في المواعيد لضمان سير مشاريعك دون تأخير.'
     },
     industrial: { //تشطيبات - صناعي
-        image: 'https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+        image: 'https://st.hzcdn.com/simgs/pictures/living-rooms/trump-hollywood-britto-charette-interior-designers-miami-fl-img~dd61312a003552fb_9-0346-1-554536a.jpg',
         icon: 'fas fa-industry',
         title: 'التشطيبات',
         description: 'تنفيذ انقدم خدمات التشطيبات بأعلى معايير الإبداع والجودة، بدءًا من التصميم الداخلي والخارجي وصولًا إلى أدق التفاصيل، لنمنحك مساحة تعكس ذوقك وتلبي احتياجاتك.'
     },
     infrastructure: { //كهرباء-بنية تحتية
-        image: 'https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+        image: 'https://www.nurvent.kz/pr-templates/aug/img/el.jpg',
         icon: 'fas fa-road',
         title: 'اعمال الكهرباء',
         description: 'تطوير شبكات الطرق والجسور والمرافق العامة بأحدث التقنيات الهندسية',
